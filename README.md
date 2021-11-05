@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Bjorkan
+- 👀 I’m interested in theatre and computers
+- 🌱 I’m currently learning Typescript and Python
