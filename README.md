@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Bjorkan
+- 👋 Hi, I’m @Bjorkan from Sweden
 - 👀 I’m interested in theatre and computers
 - 🌱 I’m currently learning Typescript and Python
